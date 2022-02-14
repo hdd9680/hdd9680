@@ -50,8 +50,6 @@ I develop with the principles in mind for be a good developer.🥰</h2><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoJinn%2Fhit-counter&count_bg=%23C83D3D&title_bg=%236D6D6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 #
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hdd9680&show_icons=true&theme)&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdd9680&layout=compact&theme=vue ) -->
     
 </div>
