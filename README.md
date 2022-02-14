@@ -26,7 +26,6 @@ I develop with the principles in mind for be a good developer.🥰<br><br></h2>
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Springboot-white?style=flat&logo=Springboot&logoColor=#3776AB"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/>&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/JSP/Servlet-%230db7ed?style=flat&logo=JSP/Servlet&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/JPA-181717?style=flat&logo=JPA&logoColor=7952B3"/>&nbsp;&nbsp;
 </p>
@@ -36,6 +35,7 @@ I develop with the principles in mind for be a good developer.🥰<br><br></h2>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>&nbsp;&nbsp;
 
 </p>
 
