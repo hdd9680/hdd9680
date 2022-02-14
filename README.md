@@ -1,9 +1,9 @@
 <div align="left">
 
-<p>Hi There<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"></p> 
-<h2>I'm a back_end developer.</h2>
-<h2>My main skills are JAVA.</h2>
-<h2>I develop with the principles in mind for be a good developer.🥰</h2>
+<h2>Hi There<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
+I'm a back_end developer.
+My main skills are JAVA.
+I develop with the principles in mind for be a good developer.🥰</h2>
 
 <a href="https://www.notion.so/73a16ec1e00b41a6ba26da3484dc8cde">
     <img 
