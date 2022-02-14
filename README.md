@@ -52,6 +52,6 @@ I develop with the principles in mind for be a good developer.🥰</h2><br>
 #
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hdd9680&show_icons=true&theme)&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoJinn&layout=compact&theme=vue ) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdd9680&layout=compact&theme=vue ) -->
     
 </div>
