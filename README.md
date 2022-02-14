@@ -19,7 +19,7 @@ I develop with the principles in mind for be a good developer.🥰<br><br></h2>
 
 #
 <h3>🔥 Tech Stack 🔥</h3>
-<h3>&nbsp;&nbsp;&nbsp;Back-end</h3>
+<h3>Back-end</h3>
 <p>
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>&nbsp;&nbsp;
@@ -31,7 +31,8 @@ I develop with the principles in mind for be a good developer.🥰<br><br></h2>
    <img src="https://img.shields.io/badge/JPA-181717?style=flat&logo=JPA&logoColor=7952B3"/>&nbsp;&nbsp;
 </p>
 
-    <h3>&nbsp;&nbsp;&nbsp;Front-end</h3>
+<h3>Front-end</h3>
+    
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
@@ -41,7 +42,8 @@ I develop with the principles in mind for be a good developer.🥰<br><br></h2>
 
 </p>
 
-    <h3>&nbsp;&nbsp;&nbsp;Communication Tool</h3>
+<h3>Communication Tool</h3>
+    
 <p><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitLab-F05032?style=flat&logo=GitLab&logoColor=white"/>&nbsp;&nbsp;
