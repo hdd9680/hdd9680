@@ -1,8 +1,8 @@
 <div align="left">
 
-<h2>Hi There<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
-I'm a back_end developer.
-My main skills are JAVA.
+<h2>Hi There<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"><br>
+I'm a back_end developer.<br>
+My main skills are JAVA.<br>
 I develop with the principles in mind for be a good developer.🥰</h2>
 
 <a href="https://www.notion.so/73a16ec1e00b41a6ba26da3484dc8cde">
