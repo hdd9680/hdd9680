@@ -44,12 +44,6 @@ I develop with the principles in mind for be a good developer.🥰</h2><br>
    <img src="https://img.shields.io/badge/GitLab-F05032?style=flat&logo=GitLab&logoColor=white"/>&nbsp;&nbsp;
 </p>
     
-#    
-<h3>📧today📧</h3>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhdd9680%2Fhit-counter&count_bg=%23C83D3D&title_bg=%236D6D6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-#
 <img align="left" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
     
 </div>
