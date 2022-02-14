@@ -4,7 +4,7 @@
 I'm a back_end developer.<br><br>
 My main skills are JAVA.<br><br>
 I develop with the principles in mind for be a good developer.🥰</h2><br>
-    
+<h3>📞 Contact Me📞</h3>    
 <a href="https://www.notion.so/73a16ec1e00b41a6ba26da3484dc8cde">
     <img 
         src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://developer-jinn.notion.site/Jinn-b99d082a3a4346278b5794a950b911e0"
