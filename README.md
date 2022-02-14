@@ -3,7 +3,7 @@
 <h2>Hi There<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"><br><br>
 I'm a back_end developer.<br><br>
 My main skills are JAVA.<br><br>
-I develop with the principles in mind for be a good developer.🥰<br></h2>
+I develop with the principles in mind for be a good developer.🥰<br><br></h2>
 <h3>📞 Contact Me📞</h3>    
 <a href="https://www.notion.so/73a16ec1e00b41a6ba26da3484dc8cde">
     <img 
